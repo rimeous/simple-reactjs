@@ -1,1 +1,1 @@
-Simple show arcticle appon ReactJS
+**Simple "show articles" ReactJS application**
