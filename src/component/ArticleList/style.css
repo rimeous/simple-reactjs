@@ -1,0 +1,11 @@
+.article-list__ul {
+    padding: 0;
+}
+
+.article-list__li {
+    list-style: none;
+}
+
+.article-list__li>div {
+    width: 100%;
+}
